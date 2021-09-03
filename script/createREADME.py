@@ -167,15 +167,7 @@ def create_cover_readme(logs) -> None:
             f'![{log[5]}][{log[5]}]' if log[1] != '' else '',
             f'{log[6].replace(";", "; ")}'
         ]
-        if int(log[0]) % 7 == 1:
-            if i + 7 < len(logs):
-                week_end = logs[i + 7][3]
-            else:
-                week_end = ''
-            daily_table += [['', '',
-                             f'Week {int(log[0])//7+1}<br>({log[3]} ~ {week_end})'], daily_row]
-        else:
-            daily_table += [daily_row]
+        daily_table += [daily_row]
 
     summary = {
         'Easy': 0,

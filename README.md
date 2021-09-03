@@ -3,7 +3,6 @@
 
 |  Day | Id | Title | Difficulty | Related Topics |
 | :--------: |  :--------: |  --------- |  :--------: |  --------- | 
-|  |  | Week 1<br>(2021-09-01 ~ ) | 
 | 001 | [565][0565] | [Array Nesting](<./2021-09/2021-09-01>) | ![Medium][Medium] | Array; Depth-First Search | 
 | 002 | [95][0095] | [Unique Binary Search Trees II](<./2021-09/2021-09-02>) | ![Medium][Medium] | Dynamic Programming; Backtracking; Tree; Binary Search Tree; Binary Tree | 
 
