@@ -1,5 +1,5 @@
 from datetime import datetime, timezone, timedelta
-from os import mkdir, replace
+from os import mkdir
 from os.path import isdir, join
 import sys
 from typing import List
@@ -14,34 +14,27 @@ color = ["EF9A9A", "B39DDB", "81D4FA",
 backslash_char = "\n\n"
 
 
-def get_problem_list() -> List[List[str]]:
-    with open('problem_list.log', 'r') as fin:
+def get_problem_list(problem_list_file: str) -> List[List[str]]:
+    with open(problem_list_file, 'r') as fin:
         cin = csv.reader(fin)
         logs = [row for row in cin if len(row) > 0]
 
     return logs
 
 
-def add__problem_list(logs) -> None:
+def add_problem_list(logs: List[List[str]]) -> None:
     with open('problem_list.log', 'wt') as fout:
         csvout = csv.writer(fout)
         csvout.writerows(logs)
 
 
-def format_log_list(logs, leetcode_info, y_m_d) -> dict:
-    if logs[-1][3] == y_m_d:
-        return logs
-
+def format_log_list(logs: List[List[str]], leetcode_info: dict, y_m_d: str) -> dict:
     difficulty = leetcode_info['difficulty']
     leetcode_url = f'https://leetcode.com/problems/{leetcode_info["titleSlug"]}/'
     topic_tags = ';'.join([tag['name'] for tag in leetcode_info['topicTags']])
 
     logs.append([len(logs), int(leetcode_info['questionId']),
                 leetcode_url, y_m_d, leetcode_info['title'], difficulty, topic_tags])
-
-    # for log in logs[1:]:
-    #     info = get_leetcode(get_problem_name(log[2]))
-    #     log.insert(4, info['title'])
 
     return logs
 
@@ -66,21 +59,24 @@ def get_leetcode(title: str) -> dict:
     return r.json()["data"]["question"]
 
 
-def mkdir_today(day: int, last_log_date) -> str:
-    tz = timezone(timedelta(hours=-7))
+def create_dir(folder_path: str) -> None:
+    if not isdir(folder_path):
+        mkdir(folder_path)
+
+
+def mkdir_today(folder_name: str) -> str:
+    tz = timezone(timedelta(hours=8))
     now = datetime.now(tz).isoformat(timespec="seconds")
     y_m = now[:7]
     y_m_d = now[:10]
 
-    if last_log_date == y_m_d:
-        return join(y_m, f'{y_m_d}')
+    create_dir(y_m)
 
-    if not isdir(y_m):
-        mkdir(y_m)
+    folder = join(y_m, y_m_d)
+    create_dir(folder)
 
-    folder = join(y_m, f'{y_m_d}')
-    if not isdir(folder):
-        mkdir(folder)
+    folder = join(y_m, y_m_d, folder_name)
+    create_dir(folder)
 
     return folder
 
@@ -115,7 +111,7 @@ def create_readme(folder: str, info: dict) -> None:
         fout.write(template)
 
 
-def make_markdown_table(array):
+def make_markdown_table(array: List[List[str]]) -> str:
     """
         https://gist.github.com/m0neysha/219bad4b02d2008e0154
         Input: Python list with rows of table as lists
@@ -153,12 +149,12 @@ def make_markdown_table(array):
     return markdown + "\n"
 
 
-def create_cover_readme(logs) -> None:
+def update_cover_readme(logs: List[List[str]]) -> None:
     leetcode_url_def = sorted(
         [f'[{int(log[1]):04}]: {log[2]}' for log in logs[1:] if log[1] != ''])
 
-    # | Day | id | Title |       | Related Topics |
-    daily_table = [['Day', 'Id', 'Title', 'Difficulty', 'Related Topics']]
+    # | # | id | Title | Difficulty | Related Topics |
+    daily_table = [['#', 'Id', 'Title', 'Difficulty', 'Related Topics']]
     for i, log in enumerate(logs[1:]):
         daily_row = [
             f'{int(log[0]):03}',
@@ -201,16 +197,18 @@ if __name__ == '__main__':
     leetcode_info = get_leetcode(get_problem_name(leetcode_url))
     # print(json.dumps(leetcode_info))
 
-    logs = get_problem_list()
+    logs = get_problem_list('problem_list.log')
     # #,id,leetcode_url,date,difficulty,tags
 
-    folder = mkdir_today(len(logs), logs[-1][3])
+    folder = mkdir_today(
+        f"{leetcode_info['questionId']}. {leetcode_info['title']}")
 
     create_readme(folder, leetcode_info)
 
     logs = format_log_list(logs, leetcode_info, folder[8:18])
-    add__problem_list(logs)
 
-    create_cover_readme(logs)
+    add_problem_list(logs)
+
+    update_cover_readme(logs)
 
     print('over')
