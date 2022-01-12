@@ -159,7 +159,7 @@ def update_cover_readme(logs: List[List[str]]) -> None:
         daily_row = [
             f'{int(log[0]):03}',
             f'[{log[1]}][{int(log[1]):04}]' if log[1] != '' else '',
-            f'[{log[4]}](<./{log[3][:7]}/{log[3]}>)',
+            f'[{log[4]}](<./{log[3][:7]}/{log[3]}/{log[1]}.%20{log[4].replace(" ", "%20")}>)',
             f'![{log[5]}][{log[5]}]' if log[1] != '' else '',
             f'{log[6].replace(";", "; ")}'
         ]
