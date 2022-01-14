@@ -3,3 +3,4 @@
 2,95,https://leetcode.com/problems/unique-binary-search-trees-ii/,2021-09-02,Unique Binary Search Trees II,Medium,Dynamic Programming;Backtracking;Tree;Binary Search Tree;Binary Tree
 3,1013,https://leetcode.com/problems/fibonacci-number/,2022-01-12,Fibonacci Number,Easy,Math;Dynamic Programming;Recursion;Memoization
 4,322,https://leetcode.com/problems/coin-change/,2022-01-12,Coin Change,Medium,Array;Dynamic Programming;Breadth-First Search
+5,221,https://leetcode.com/problems/maximal-square/,2022-01-14,Maximal Square,Medium,Array;Dynamic Programming;Matrix
