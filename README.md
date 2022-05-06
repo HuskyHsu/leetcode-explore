@@ -12,6 +12,7 @@
 | 007 | [78][0078] | [Subsets](<./2022-04/2022-04-25/78.%20Subsets>) | ![Medium][Medium] | Array; Backtracking; Bit Manipulation | 
 | 008 | [144][0144] | [Binary Tree Preorder Traversal](<./2022-05/2022-05-05/144.%20Binary%20Tree%20Preorder%20Traversal>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Tree | 
 | 009 | [94][0094] | [Binary Tree Inorder Traversal](<./2022-05/2022-05-05/94.%20Binary%20Tree%20Inorder%20Traversal>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Tree | 
+| 010 | [145][0145] | [Binary Tree Postorder Traversal](<./2022-05/2022-05-06/145.%20Binary%20Tree%20Postorder%20Traversal>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Tree | 
 
 
 
@@ -19,7 +20,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-3-brightgreen)
+![](https://img.shields.io/badge/Easy-4-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-6-orange)
 
@@ -32,6 +33,7 @@
 [0095]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 [0097]: https://leetcode.com/problems/interleaving-string/
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
+[0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 [0221]: https://leetcode.com/problems/maximal-square/
 [0322]: https://leetcode.com/problems/coin-change/
 [0565]: https://leetcode.com/problems/array-nesting/
