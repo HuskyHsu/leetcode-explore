@@ -209,6 +209,14 @@ def update_cover_readme(logs: List[List[str]]) -> None:
         fout.write(template)
 
 
+class MyError(Exception):
+    def __init__(self, message):
+        self.message = message
+
+    def __str__(self):
+        return self.message
+
+
 if __name__ == "__main__":
 
     leetcode_url = sys.argv[1]
@@ -217,6 +225,9 @@ if __name__ == "__main__":
 
     logs = get_problem_list("problem_list.log")
     # #,id,leetcode_url,date,difficulty,tags
+    for log in logs:
+        if log[1] == leetcode_info["questionId"]:
+            raise MyError(f'has {leetcode_info["questionId"]}')
 
     folder = mkdir_today(f"{leetcode_info['questionId']}. {leetcode_info['title']}")
 
