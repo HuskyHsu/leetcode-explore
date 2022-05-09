@@ -16,6 +16,7 @@
 | 011 | [102][0102] | [Binary Tree Level Order Traversal](<./2022-05/2022-05-06/102.%20Binary%20Tree%20Level%20Order%20Traversal>) | ![Medium][Medium] | Tree; Breadth-First Search; Binary Tree | 
 | 012 | [104][0104] | [Maximum Depth of Binary Tree](<./2022-05/2022-05-09/104.%20Maximum%20Depth%20of%20Binary%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 013 | [110][0110] | [Balanced Binary Tree](<./2022-05/2022-05-09/110.%20Balanced%20Binary%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
+| 014 | [124][0124] | [Binary Tree Maximum Path Sum](<./2022-05/2022-05-09/124.%20Binary%20Tree%20Maximum%20Path%20Sum>) | ![Hard][Hard] | Dynamic Programming; Tree; Depth-First Search; Binary Tree | 
 
 
 
@@ -27,7 +28,7 @@
 
 ![](https://img.shields.io/badge/Medium-7-orange)
 
-![](https://img.shields.io/badge/Hard-0-red)
+![](https://img.shields.io/badge/Hard-1-red)
 
 ---
 
@@ -38,6 +39,7 @@
 [0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
+[0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 [0221]: https://leetcode.com/problems/maximal-square/
