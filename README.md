@@ -18,6 +18,7 @@
 | 013 | [110][0110] | [Balanced Binary Tree](<./2022-05/2022-05-09/110.%20Balanced%20Binary%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 | 014 | [124][0124] | [Binary Tree Maximum Path Sum](<./2022-05/2022-05-09/124.%20Binary%20Tree%20Maximum%20Path%20Sum>) | ![Hard][Hard] | Dynamic Programming; Tree; Depth-First Search; Binary Tree | 
 | 015 | [236][0236] | [Lowest Common Ancestor of a Binary Tree](<./2022-05/2022-05-10/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Tree | 
+| 016 | [103][0103] | [Binary Tree Zigzag Level Order Traversal](<./2022-05/2022-05-11/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal>) | ![Medium][Medium] | Tree; Breadth-First Search; Binary Tree | 
 
 
 
@@ -27,7 +28,7 @@
 
 ![](https://img.shields.io/badge/Easy-6-brightgreen)
 
-![](https://img.shields.io/badge/Medium-8-orange)
+![](https://img.shields.io/badge/Medium-9-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -38,6 +39,7 @@
 [0095]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 [0097]: https://leetcode.com/problems/interleaving-string/
 [0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
+[0103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/

@@ -14,3 +14,4 @@
 13,110,https://leetcode.com/problems/balanced-binary-tree/,2022-05-09,Balanced Binary Tree,Easy,Tree;Depth-First Search;Binary Tree
 14,124,https://leetcode.com/problems/binary-tree-maximum-path-sum/,2022-05-09,Binary Tree Maximum Path Sum,Hard,Dynamic Programming;Tree;Depth-First Search;Binary Tree
 15,236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,2022-05-10,Lowest Common Ancestor of a Binary Tree,Medium,Tree;Depth-First Search;Binary Tree
+16,103,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,2022-05-11,Binary Tree Zigzag Level Order Traversal,Medium,Tree;Breadth-First Search;Binary Tree
