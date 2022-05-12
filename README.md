@@ -20,6 +20,7 @@
 | 015 | [236][0236] | [Lowest Common Ancestor of a Binary Tree](<./2022-05/2022-05-10/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Tree | 
 | 016 | [103][0103] | [Binary Tree Zigzag Level Order Traversal](<./2022-05/2022-05-11/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal>) | ![Medium][Medium] | Tree; Breadth-First Search; Binary Tree | 
 | 017 | [98][0098] | [Validate Binary Search Tree](<./2022-05/2022-05-11/98.%20Validate%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
+| 018 | [784][0784] | [Insert into a Binary Search Tree](<./2022-05/2022-05-12/784.%20Insert%20into%20a%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Binary Search Tree; Binary Tree | 
 
 
 
@@ -29,7 +30,7 @@
 
 ![](https://img.shields.io/badge/Easy-6-brightgreen)
 
-![](https://img.shields.io/badge/Medium-10-orange)
+![](https://img.shields.io/badge/Medium-11-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -51,6 +52,7 @@
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
 [0565]: https://leetcode.com/problems/array-nesting/
+[0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [1013]: https://leetcode.com/problems/fibonacci-number/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
