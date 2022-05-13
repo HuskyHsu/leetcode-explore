@@ -21,6 +21,7 @@
 | 016 | [103][0103] | [Binary Tree Zigzag Level Order Traversal](<./2022-05/2022-05-11/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal>) | ![Medium][Medium] | Tree; Breadth-First Search; Binary Tree | 
 | 017 | [98][0098] | [Validate Binary Search Tree](<./2022-05/2022-05-11/98.%20Validate%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 018 | [784][0784] | [Insert into a Binary Search Tree](<./2022-05/2022-05-12/784.%20Insert%20into%20a%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Binary Search Tree; Binary Tree | 
+| 019 | [155][0155] | [Min Stack](<./2022-05/2022-05-13/155.%20Min%20Stack>) | ![Easy][Easy] | Stack; Design | 
 
 
 
@@ -28,7 +29,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-6-brightgreen)
+![](https://img.shields.io/badge/Easy-7-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-11-orange)
 
@@ -48,6 +49,7 @@
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+[0155]: https://leetcode.com/problems/min-stack/
 [0221]: https://leetcode.com/problems/maximal-square/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
