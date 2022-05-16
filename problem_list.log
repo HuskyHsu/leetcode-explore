@@ -20,3 +20,4 @@
 19,155,https://leetcode.com/problems/min-stack/,2022-05-13,Min Stack,Easy,Stack;Design
 20,83,https://leetcode.com/problems/remove-duplicates-from-sorted-list/,2022-05-16,Remove Duplicates from Sorted List,Easy,Linked List
 21,908,https://leetcode.com/problems/middle-of-the-linked-list/,2022-05-16,Middle of the Linked List,Easy,Linked List;Two Pointers
+22,1582,https://leetcode.com/problems/design-browser-history/,2022-05-16,Design Browser History,Medium,Array;Linked List;Stack;Design;Doubly-Linked List;Data Stream

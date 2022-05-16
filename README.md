@@ -24,6 +24,7 @@
 | 019 | [155][0155] | [Min Stack](<./2022-05/2022-05-13/155.%20Min%20Stack>) | ![Easy][Easy] | Stack; Design | 
 | 020 | [83][0083] | [Remove Duplicates from Sorted List](<./2022-05/2022-05-16/83.%20Remove%20Duplicates%20from%20Sorted%20List>) | ![Easy][Easy] | Linked List | 
 | 021 | [908][0908] | [Middle of the Linked List](<./2022-05/2022-05-16/908.%20Middle%20of%20the%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers | 
+| 022 | [1582][1582] | [Design Browser History](<./2022-05/2022-05-16/1582.%20Design%20Browser%20History>) | ![Medium][Medium] | Array; Linked List; Stack; Design; Doubly-Linked List; Data Stream | 
 
 
 
@@ -33,7 +34,7 @@
 
 ![](https://img.shields.io/badge/Easy-9-brightgreen)
 
-![](https://img.shields.io/badge/Medium-11-orange)
+![](https://img.shields.io/badge/Medium-12-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -60,6 +61,7 @@
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [0908]: https://leetcode.com/problems/middle-of-the-linked-list/
 [1013]: https://leetcode.com/problems/fibonacci-number/
+[1582]: https://leetcode.com/problems/design-browser-history/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
 [Medium]: https://img.shields.io/badge/-Medium-orange
