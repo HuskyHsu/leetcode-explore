@@ -23,6 +23,7 @@
 | 018 | [784][0784] | [Insert into a Binary Search Tree](<./2022-05/2022-05-12/784.%20Insert%20into%20a%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Binary Search Tree; Binary Tree | 
 | 019 | [155][0155] | [Min Stack](<./2022-05/2022-05-13/155.%20Min%20Stack>) | ![Easy][Easy] | Stack; Design | 
 | 020 | [83][0083] | [Remove Duplicates from Sorted List](<./2022-05/2022-05-16/83.%20Remove%20Duplicates%20from%20Sorted%20List>) | ![Easy][Easy] | Linked List | 
+| 021 | [908][0908] | [Middle of the Linked List](<./2022-05/2022-05-16/908.%20Middle%20of%20the%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers | 
 
 
 
@@ -30,7 +31,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-8-brightgreen)
+![](https://img.shields.io/badge/Easy-9-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-11-orange)
 
@@ -57,6 +58,7 @@
 [0322]: https://leetcode.com/problems/coin-change/
 [0565]: https://leetcode.com/problems/array-nesting/
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+[0908]: https://leetcode.com/problems/middle-of-the-linked-list/
 [1013]: https://leetcode.com/problems/fibonacci-number/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
