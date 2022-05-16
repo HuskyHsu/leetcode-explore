@@ -22,6 +22,7 @@
 | 017 | [98][0098] | [Validate Binary Search Tree](<./2022-05/2022-05-11/98.%20Validate%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 018 | [784][0784] | [Insert into a Binary Search Tree](<./2022-05/2022-05-12/784.%20Insert%20into%20a%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Binary Search Tree; Binary Tree | 
 | 019 | [155][0155] | [Min Stack](<./2022-05/2022-05-13/155.%20Min%20Stack>) | ![Easy][Easy] | Stack; Design | 
+| 020 | [83][0083] | [Remove Duplicates from Sorted List](<./2022-05/2022-05-16/83.%20Remove%20Duplicates%20from%20Sorted%20List>) | ![Easy][Easy] | Linked List | 
 
 
 
@@ -29,7 +30,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-7-brightgreen)
+![](https://img.shields.io/badge/Easy-8-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-11-orange)
 
@@ -38,6 +39,7 @@
 ---
 
 [0078]: https://leetcode.com/problems/subsets/
+[0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0095]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 [0097]: https://leetcode.com/problems/interleaving-string/
