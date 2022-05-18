@@ -26,6 +26,7 @@
 | 021 | [908][0908] | [Middle of the Linked List](<./2022-05/2022-05-16/908.%20Middle%20of%20the%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers | 
 | 022 | [1582][1582] | [Design Browser History](<./2022-05/2022-05-16/1582.%20Design%20Browser%20History>) | ![Medium][Medium] | Array; Linked List; Stack; Design; Doubly-Linked List; Data Stream | 
 | 023 | [82][0082] | [Remove Duplicates from Sorted List II](<./2022-05/2022-05-17/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II>) | ![Medium][Medium] | Linked List; Two Pointers | 
+| 024 | [206][0206] | [Reverse Linked List](<./2022-05/2022-05-18/206.%20Reverse%20Linked%20List>) | ![Easy][Easy] | Linked List; Recursion | 
 
 
 
@@ -33,7 +34,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-9-brightgreen)
+![](https://img.shields.io/badge/Easy-10-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-13-orange)
 
@@ -56,6 +57,7 @@
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 [0155]: https://leetcode.com/problems/min-stack/
+[0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
