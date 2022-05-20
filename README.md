@@ -28,6 +28,7 @@
 | 023 | [82][0082] | [Remove Duplicates from Sorted List II](<./2022-05/2022-05-17/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II>) | ![Medium][Medium] | Linked List; Two Pointers | 
 | 024 | [206][0206] | [Reverse Linked List](<./2022-05/2022-05-18/206.%20Reverse%20Linked%20List>) | ![Easy][Easy] | Linked List; Recursion | 
 | 025 | [92][0092] | [Reverse Linked List II](<./2022-05/2022-05-19/92.%20Reverse%20Linked%20List%20II>) | ![Medium][Medium] | Linked List | 
+| 026 | [21][0021] | [Merge Two Sorted Lists](<./2022-05/2022-05-20/21.%20Merge%20Two%20Sorted%20Lists>) | ![Easy][Easy] | Linked List; Recursion | 
 
 
 
@@ -35,7 +36,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-10-brightgreen)
+![](https://img.shields.io/badge/Easy-11-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-14-orange)
 
@@ -43,6 +44,7 @@
 
 ---
 
+[0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
