@@ -29,6 +29,7 @@
 | 024 | [206][0206] | [Reverse Linked List](<./2022-05/2022-05-18/206.%20Reverse%20Linked%20List>) | ![Easy][Easy] | Linked List; Recursion | 
 | 025 | [92][0092] | [Reverse Linked List II](<./2022-05/2022-05-19/92.%20Reverse%20Linked%20List%20II>) | ![Medium][Medium] | Linked List | 
 | 026 | [21][0021] | [Merge Two Sorted Lists](<./2022-05/2022-05-20/21.%20Merge%20Two%20Sorted%20Lists>) | ![Easy][Easy] | Linked List; Recursion | 
+| 027 | [86][0086] | [Partition List](<./2022-05/2022-05-23/86.%20Partition%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
 
 
 
@@ -38,7 +39,7 @@
 
 ![](https://img.shields.io/badge/Easy-11-brightgreen)
 
-![](https://img.shields.io/badge/Medium-14-orange)
+![](https://img.shields.io/badge/Medium-15-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -48,6 +49,7 @@
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[0086]: https://leetcode.com/problems/partition-list/
 [0092]: https://leetcode.com/problems/reverse-linked-list-ii/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0095]: https://leetcode.com/problems/unique-binary-search-trees-ii/
