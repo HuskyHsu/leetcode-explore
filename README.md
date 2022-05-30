@@ -30,6 +30,7 @@
 | 025 | [92][0092] | [Reverse Linked List II](<./2022-05/2022-05-19/92.%20Reverse%20Linked%20List%20II>) | ![Medium][Medium] | Linked List | 
 | 026 | [21][0021] | [Merge Two Sorted Lists](<./2022-05/2022-05-20/21.%20Merge%20Two%20Sorted%20Lists>) | ![Easy][Easy] | Linked List; Recursion | 
 | 027 | [86][0086] | [Partition List](<./2022-05/2022-05-23/86.%20Partition%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
+| 028 | [148][0148] | [Sort List](<./2022-05/2022-05-30/148.%20Sort%20List>) | ![Medium][Medium] | Linked List; Two Pointers; Divide and Conquer; Sorting; Merge Sort | 
 
 
 
@@ -39,7 +40,7 @@
 
 ![](https://img.shields.io/badge/Easy-11-brightgreen)
 
-![](https://img.shields.io/badge/Medium-15-orange)
+![](https://img.shields.io/badge/Medium-16-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -62,6 +63,7 @@
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+[0148]: https://leetcode.com/problems/sort-list/
 [0155]: https://leetcode.com/problems/min-stack/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
