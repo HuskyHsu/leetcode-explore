@@ -28,3 +28,4 @@
 27,86,https://leetcode.com/problems/partition-list/,2022-05-23,Partition List,Medium,Linked List;Two Pointers
 28,148,https://leetcode.com/problems/sort-list/,2022-05-30,Sort List,Medium,Linked List;Two Pointers;Divide and Conquer;Sorting;Merge Sort
 29,143,https://leetcode.com/problems/reorder-list/,2022-06-06,Reorder List,Medium,Linked List;Two Pointers;Stack;Recursion
+30,141,https://leetcode.com/problems/linked-list-cycle/,2022-06-07,Linked List Cycle,Easy,Hash Table;Linked List;Two Pointers
