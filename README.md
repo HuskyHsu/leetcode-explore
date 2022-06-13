@@ -31,7 +31,9 @@
 | 026 | [21][0021] | [Merge Two Sorted Lists](<./2022-05/2022-05-20/21.%20Merge%20Two%20Sorted%20Lists>) | ![Easy][Easy] | Linked List; Recursion | 
 | 027 | [86][0086] | [Partition List](<./2022-05/2022-05-23/86.%20Partition%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
 | 028 | [148][0148] | [Sort List](<./2022-05/2022-05-30/148.%20Sort%20List>) | ![Medium][Medium] | Linked List; Two Pointers; Divide and Conquer; Sorting; Merge Sort | 
-| 029 | [234][0234] | [Palindrome Linked List](<./2022-06/2022-06-13/234.%20Palindrome%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
+| 029 | [143][0143] | [Reorder List](<./2022-06/2022-06-06/143.%20Reorder%20List>) | ![Medium][Medium] | Linked List; Two Pointers; Stack; Recursion | 
+| 030 | [141][0141] | [Linked List Cycle](<./2022-06/2022-06-07/141.%20Linked%20List%20Cycle>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
+| 031 | [234][0234] | [Palindrome Linked List](<./2022-06/2022-06-13/234.%20Palindrome%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 
 
 
@@ -39,9 +41,9 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-12-brightgreen)
+![](https://img.shields.io/badge/Easy-13-brightgreen)
 
-![](https://img.shields.io/badge/Medium-16-orange)
+![](https://img.shields.io/badge/Medium-17-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -62,6 +64,8 @@
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[0141]: https://leetcode.com/problems/linked-list-cycle/
+[0143]: https://leetcode.com/problems/reorder-list/
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 [0148]: https://leetcode.com/problems/sort-list/
