@@ -27,3 +27,4 @@
 26,21,https://leetcode.com/problems/merge-two-sorted-lists/,2022-05-20,Merge Two Sorted Lists,Easy,Linked List;Recursion
 27,86,https://leetcode.com/problems/partition-list/,2022-05-23,Partition List,Medium,Linked List;Two Pointers
 28,148,https://leetcode.com/problems/sort-list/,2022-05-30,Sort List,Medium,Linked List;Two Pointers;Divide and Conquer;Sorting;Merge Sort
+29,234,https://leetcode.com/problems/palindrome-linked-list/,2022-06-13,Palindrome Linked List,Easy,Linked List;Two Pointers;Stack;Recursion

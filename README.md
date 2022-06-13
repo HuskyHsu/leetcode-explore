@@ -31,6 +31,7 @@
 | 026 | [21][0021] | [Merge Two Sorted Lists](<./2022-05/2022-05-20/21.%20Merge%20Two%20Sorted%20Lists>) | ![Easy][Easy] | Linked List; Recursion | 
 | 027 | [86][0086] | [Partition List](<./2022-05/2022-05-23/86.%20Partition%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
 | 028 | [148][0148] | [Sort List](<./2022-05/2022-05-30/148.%20Sort%20List>) | ![Medium][Medium] | Linked List; Two Pointers; Divide and Conquer; Sorting; Merge Sort | 
+| 029 | [234][0234] | [Palindrome Linked List](<./2022-06/2022-06-13/234.%20Palindrome%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 
 
 
@@ -38,7 +39,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-11-brightgreen)
+![](https://img.shields.io/badge/Easy-12-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-16-orange)
 
@@ -67,6 +68,7 @@
 [0155]: https://leetcode.com/problems/min-stack/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
+[0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
 [0565]: https://leetcode.com/problems/array-nesting/
