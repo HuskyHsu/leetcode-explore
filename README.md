@@ -34,6 +34,7 @@
 | 029 | [143][0143] | [Reorder List](<./2022-06/2022-06-06/143.%20Reorder%20List>) | ![Medium][Medium] | Linked List; Two Pointers; Stack; Recursion | 
 | 030 | [141][0141] | [Linked List Cycle](<./2022-06/2022-06-07/141.%20Linked%20List%20Cycle>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
 | 031 | [234][0234] | [Palindrome Linked List](<./2022-06/2022-06-13/234.%20Palindrome%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
+| 032 | [138][0138] | [Copy List with Random Pointer](<./2022-06/2022-06-19/138.%20Copy%20List%20with%20Random%20Pointer>) | ![Medium][Medium] | Hash Table; Linked List | 
 
 
 
@@ -43,7 +44,7 @@
 
 ![](https://img.shields.io/badge/Easy-13-brightgreen)
 
-![](https://img.shields.io/badge/Medium-17-orange)
+![](https://img.shields.io/badge/Medium-18-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -64,6 +65,7 @@
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[0138]: https://leetcode.com/problems/copy-list-with-random-pointer/
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0143]: https://leetcode.com/problems/reorder-list/
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
