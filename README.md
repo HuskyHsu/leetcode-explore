@@ -35,6 +35,7 @@
 | 030 | [141][0141] | [Linked List Cycle](<./2022-06/2022-06-07/141.%20Linked%20List%20Cycle>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
 | 031 | [234][0234] | [Palindrome Linked List](<./2022-06/2022-06-13/234.%20Palindrome%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 | 032 | [138][0138] | [Copy List with Random Pointer](<./2022-06/2022-06-19/138.%20Copy%20List%20with%20Random%20Pointer>) | ![Medium][Medium] | Hash Table; Linked List | 
+| 033 | [150][0150] | [Evaluate Reverse Polish Notation](<./2022-06/2022-06-20/150.%20Evaluate%20Reverse%20Polish%20Notation>) | ![Medium][Medium] | Array; Math; Stack | 
 
 
 
@@ -44,7 +45,7 @@
 
 ![](https://img.shields.io/badge/Easy-13-brightgreen)
 
-![](https://img.shields.io/badge/Medium-18-orange)
+![](https://img.shields.io/badge/Medium-19-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -71,6 +72,7 @@
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 [0148]: https://leetcode.com/problems/sort-list/
+[0150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [0155]: https://leetcode.com/problems/min-stack/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
