@@ -36,6 +36,7 @@
 | 031 | [234][0234] | [Palindrome Linked List](<./2022-06/2022-06-13/234.%20Palindrome%20Linked%20List>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 | 032 | [138][0138] | [Copy List with Random Pointer](<./2022-06/2022-06-19/138.%20Copy%20List%20with%20Random%20Pointer>) | ![Medium][Medium] | Hash Table; Linked List | 
 | 033 | [150][0150] | [Evaluate Reverse Polish Notation](<./2022-06/2022-06-20/150.%20Evaluate%20Reverse%20Polish%20Notation>) | ![Medium][Medium] | Array; Math; Stack | 
+| 034 | [394][0394] | [Decode String](<./2022-06/2022-06-21/394.%20Decode%20String>) | ![Medium][Medium] | String; Stack; Recursion | 
 
 
 
@@ -45,7 +46,7 @@
 
 ![](https://img.shields.io/badge/Easy-13-brightgreen)
 
-![](https://img.shields.io/badge/Medium-19-orange)
+![](https://img.shields.io/badge/Medium-20-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -79,6 +80,7 @@
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
+[0394]: https://leetcode.com/problems/decode-string/
 [0565]: https://leetcode.com/problems/array-nesting/
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [0908]: https://leetcode.com/problems/middle-of-the-linked-list/
