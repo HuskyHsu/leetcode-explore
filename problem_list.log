@@ -34,3 +34,4 @@
 33,150,https://leetcode.com/problems/evaluate-reverse-polish-notation/,2022-06-20,Evaluate Reverse Polish Notation,Medium,Array;Math;Stack
 34,394,https://leetcode.com/problems/decode-string/,2022-06-21,Decode String,Medium,String;Stack;Recursion
 35,133,https://leetcode.com/problems/clone-graph/,2022-06-22,Clone Graph,Medium,Hash Table;Depth-First Search;Breadth-First Search;Graph
+36,200,https://leetcode.com/problems/number-of-islands/,2022-07-18,Number of Islands,Medium,Array;Depth-First Search;Breadth-First Search;Union Find;Matrix

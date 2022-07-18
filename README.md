@@ -38,6 +38,7 @@
 | 033 | [150][0150] | [Evaluate Reverse Polish Notation](<./2022-06/2022-06-20/150.%20Evaluate%20Reverse%20Polish%20Notation>) | ![Medium][Medium] | Array; Math; Stack | 
 | 034 | [394][0394] | [Decode String](<./2022-06/2022-06-21/394.%20Decode%20String>) | ![Medium][Medium] | String; Stack; Recursion | 
 | 035 | [133][0133] | [Clone Graph](<./2022-06/2022-06-22/133.%20Clone%20Graph>) | ![Medium][Medium] | Hash Table; Depth-First Search; Breadth-First Search; Graph | 
+| 036 | [200][0200] | [Number of Islands](<./2022-07/2022-07-18/200.%20Number%20of%20Islands>) | ![Medium][Medium] | Array; Depth-First Search; Breadth-First Search; Union Find; Matrix | 
 
 
 
@@ -47,7 +48,7 @@
 
 ![](https://img.shields.io/badge/Easy-13-brightgreen)
 
-![](https://img.shields.io/badge/Medium-21-orange)
+![](https://img.shields.io/badge/Medium-22-orange)
 
 ![](https://img.shields.io/badge/Hard-1-red)
 
@@ -77,6 +78,7 @@
 [0148]: https://leetcode.com/problems/sort-list/
 [0150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [0155]: https://leetcode.com/problems/min-stack/
+[0200]: https://leetcode.com/problems/number-of-islands/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
