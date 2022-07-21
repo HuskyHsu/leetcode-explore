@@ -39,6 +39,7 @@
 | 034 | [394][0394] | [Decode String](<./2022-06/2022-06-21/394.%20Decode%20String>) | ![Medium][Medium] | String; Stack; Recursion | 
 | 035 | [133][0133] | [Clone Graph](<./2022-06/2022-06-22/133.%20Clone%20Graph>) | ![Medium][Medium] | Hash Table; Depth-First Search; Breadth-First Search; Graph | 
 | 036 | [200][0200] | [Number of Islands](<./2022-07/2022-07-18/200.%20Number%20of%20Islands>) | ![Medium][Medium] | Array; Depth-First Search; Breadth-First Search; Union Find; Matrix | 
+| 037 | [84][0084] | [Largest Rectangle in Histogram](<./2022-07/2022-07-21/84.%20Largest%20Rectangle%20in%20Histogram>) | ![Hard][Hard] | Array; Stack; Monotonic Stack | 
 
 
 
@@ -50,7 +51,7 @@
 
 ![](https://img.shields.io/badge/Medium-22-orange)
 
-![](https://img.shields.io/badge/Hard-1-red)
+![](https://img.shields.io/badge/Hard-2-red)
 
 ---
 
@@ -58,6 +59,7 @@
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[0084]: https://leetcode.com/problems/largest-rectangle-in-histogram/
 [0086]: https://leetcode.com/problems/partition-list/
 [0092]: https://leetcode.com/problems/reverse-linked-list-ii/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
