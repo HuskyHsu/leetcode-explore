@@ -40,6 +40,7 @@
 | 035 | [133][0133] | [Clone Graph](<./2022-06/2022-06-22/133.%20Clone%20Graph>) | ![Medium][Medium] | Hash Table; Depth-First Search; Breadth-First Search; Graph | 
 | 036 | [200][0200] | [Number of Islands](<./2022-07/2022-07-18/200.%20Number%20of%20Islands>) | ![Medium][Medium] | Array; Depth-First Search; Breadth-First Search; Union Find; Matrix | 
 | 037 | [84][0084] | [Largest Rectangle in Histogram](<./2022-07/2022-07-21/84.%20Largest%20Rectangle%20in%20Histogram>) | ![Hard][Hard] | Array; Stack; Monotonic Stack | 
+| 038 | [232][0232] | [Implement Queue using Stacks](<./2022-07/2022-07-22/232.%20Implement%20Queue%20using%20Stacks>) | ![Easy][Easy] | Stack; Design; Queue | 
 
 
 
@@ -47,7 +48,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-13-brightgreen)
+![](https://img.shields.io/badge/Easy-14-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-22-orange)
 
@@ -83,6 +84,7 @@
 [0200]: https://leetcode.com/problems/number-of-islands/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
+[0232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
