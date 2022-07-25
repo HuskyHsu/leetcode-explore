@@ -41,6 +41,7 @@
 | 036 | [200][0200] | [Number of Islands](<./2022-07/2022-07-18/200.%20Number%20of%20Islands>) | ![Medium][Medium] | Array; Depth-First Search; Breadth-First Search; Union Find; Matrix | 
 | 037 | [84][0084] | [Largest Rectangle in Histogram](<./2022-07/2022-07-21/84.%20Largest%20Rectangle%20in%20Histogram>) | ![Hard][Hard] | Array; Stack; Monotonic Stack | 
 | 038 | [232][0232] | [Implement Queue using Stacks](<./2022-07/2022-07-22/232.%20Implement%20Queue%20using%20Stacks>) | ![Easy][Easy] | Stack; Design; Queue | 
+| 039 | [542][0542] | [01 Matrix](<./2022-07/2022-07-25/542.%2001%20Matrix>) | ![Medium][Medium] | Array; Dynamic Programming; Breadth-First Search; Matrix | 
 
 
 
@@ -50,7 +51,7 @@
 
 ![](https://img.shields.io/badge/Easy-14-brightgreen)
 
-![](https://img.shields.io/badge/Medium-22-orange)
+![](https://img.shields.io/badge/Medium-23-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -89,6 +90,7 @@
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
 [0394]: https://leetcode.com/problems/decode-string/
+[0542]: https://leetcode.com/problems/01-matrix/
 [0565]: https://leetcode.com/problems/array-nesting/
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [0908]: https://leetcode.com/problems/middle-of-the-linked-list/
