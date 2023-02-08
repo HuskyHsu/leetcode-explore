@@ -42,6 +42,7 @@
 | 037 | [84][0084] | [Largest Rectangle in Histogram](<./2022-07/2022-07-21/84.%20Largest%20Rectangle%20in%20Histogram>) | ![Hard][Hard] | Array; Stack; Monotonic Stack | 
 | 038 | [232][0232] | [Implement Queue using Stacks](<./2022-07/2022-07-22/232.%20Implement%20Queue%20using%20Stacks>) | ![Easy][Easy] | Stack; Design; Queue | 
 | 039 | [542][0542] | [01 Matrix](<./2022-07/2022-07-25/542.%2001%20Matrix>) | ![Medium][Medium] | Array; Dynamic Programming; Breadth-First Search; Matrix | 
+| 040 | [15][0015] | [3Sum](<./2023-02/2023-02-08/15.%203Sum>) | ![Medium][Medium] | Array; Two Pointers; Sorting | 
 
 
 
@@ -51,12 +52,13 @@
 
 ![](https://img.shields.io/badge/Easy-14-brightgreen)
 
-![](https://img.shields.io/badge/Medium-23-orange)
+![](https://img.shields.io/badge/Medium-24-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
 ---
 
+[0015]: https://leetcode.com/problems/3sum/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
