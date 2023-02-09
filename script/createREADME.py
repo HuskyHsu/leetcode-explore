@@ -127,8 +127,8 @@ def create_readme(folder: str, info: dict) -> None:
         fout.write(template)
 
 
-def create_solution(folder: str) -> None:
-    with open(f"{folder}/solution.py", "wt") as fout:
+def create_solution(folder: str, lang_type: str) -> None:
+    with open(f"{folder}/solution.{lang_type}", "wt") as fout:
         fout.write("")
 
 
@@ -220,6 +220,7 @@ class MyError(Exception):
 if __name__ == "__main__":
 
     leetcode_url = sys.argv[1]
+    lang_type = sys.argv[2] if len(sys.argv) > 2 else "py"
     leetcode_info = get_leetcode(get_problem_name(leetcode_url))
     # print(json.dumps(leetcode_info))
 
@@ -232,7 +233,7 @@ if __name__ == "__main__":
     folder = mkdir_today(f"{leetcode_info['questionId']}. {leetcode_info['title']}")
 
     create_readme(folder, leetcode_info)
-    create_solution(folder)
+    create_solution(folder, lang_type)
 
     logs = format_log_list(logs, leetcode_info, folder[8:18])
 
