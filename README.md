@@ -44,6 +44,7 @@
 | 039 | [542][0542] | [01 Matrix](<./2022-07/2022-07-25/542.%2001%20Matrix>) | ![Medium][Medium] | Array; Dynamic Programming; Breadth-First Search; Matrix | 
 | 040 | [15][0015] | [3Sum](<./2023-02/2023-02-08/15.%203Sum>) | ![Medium][Medium] | Array; Two Pointers; Sorting | 
 | 041 | [11][0011] | [Container With Most Water](<./2023-02/2023-02-09/11.%20Container%20With%20Most%20Water>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
+| 042 | [121][0121] | [Best Time to Buy and Sell Stock](<./2023-02/2023-02-10/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock>) | ![Easy][Easy] | Array; Dynamic Programming | 
 
 
 
@@ -51,7 +52,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-14-brightgreen)
+![](https://img.shields.io/badge/Easy-15-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-25-orange)
 
@@ -76,6 +77,7 @@
 [0103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
+[0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [0133]: https://leetcode.com/problems/clone-graph/
 [0138]: https://leetcode.com/problems/copy-list-with-random-pointer/

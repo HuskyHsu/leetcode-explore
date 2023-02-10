@@ -40,3 +40,4 @@
 39,542,https://leetcode.com/problems/01-matrix/,2022-07-25,01 Matrix,Medium,Array;Dynamic Programming;Breadth-First Search;Matrix
 40,15,https://leetcode.com/problems/3sum/,2023-02-08,3Sum,Medium,Array;Two Pointers;Sorting
 41,11,https://leetcode.com/problems/container-with-most-water/,2023-02-09,Container With Most Water,Medium,Array;Two Pointers;Greedy
+42,121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2023-02-10,Best Time to Buy and Sell Stock,Easy,Array;Dynamic Programming
