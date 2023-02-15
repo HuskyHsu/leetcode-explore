@@ -45,6 +45,7 @@
 | 040 | [15][0015] | [3Sum](<./2023-02/2023-02-08/15.%203Sum>) | ![Medium][Medium] | Array; Two Pointers; Sorting | 
 | 041 | [11][0011] | [Container With Most Water](<./2023-02/2023-02-09/11.%20Container%20With%20Most%20Water>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
 | 042 | [121][0121] | [Best Time to Buy and Sell Stock](<./2023-02/2023-02-10/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock>) | ![Easy][Easy] | Array; Dynamic Programming | 
+| 043 | [3][0003] | [Longest Substring Without Repeating Characters](<./2023-02/2023-02-15/3.%20Longest%20Substring%20Without%20Repeating%20Characters>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
 
 
 
@@ -54,12 +55,13 @@
 
 ![](https://img.shields.io/badge/Easy-15-brightgreen)
 
-![](https://img.shields.io/badge/Medium-25-orange)
+![](https://img.shields.io/badge/Medium-26-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
 ---
 
+[0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [0011]: https://leetcode.com/problems/container-with-most-water/
 [0015]: https://leetcode.com/problems/3sum/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
