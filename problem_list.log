@@ -42,3 +42,4 @@
 41,11,https://leetcode.com/problems/container-with-most-water/,2023-02-09,Container With Most Water,Medium,Array;Two Pointers;Greedy
 42,121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2023-02-10,Best Time to Buy and Sell Stock,Easy,Array;Dynamic Programming
 43,3,https://leetcode.com/problems/longest-substring-without-repeating-characters/,2023-02-15,Longest Substring Without Repeating Characters,Medium,Hash Table;String;Sliding Window
+44,424,https://leetcode.com/problems/longest-repeating-character-replacement/,2023-02-16,Longest Repeating Character Replacement,Medium,Hash Table;String;Sliding Window

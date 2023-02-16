@@ -46,6 +46,7 @@
 | 041 | [11][0011] | [Container With Most Water](<./2023-02/2023-02-09/11.%20Container%20With%20Most%20Water>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
 | 042 | [121][0121] | [Best Time to Buy and Sell Stock](<./2023-02/2023-02-10/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 043 | [3][0003] | [Longest Substring Without Repeating Characters](<./2023-02/2023-02-15/3.%20Longest%20Substring%20Without%20Repeating%20Characters>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
+| 044 | [424][0424] | [Longest Repeating Character Replacement](<./2023-02/2023-02-16/424.%20Longest%20Repeating%20Character%20Replacement>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
 
 
 
@@ -55,7 +56,7 @@
 
 ![](https://img.shields.io/badge/Easy-15-brightgreen)
 
-![](https://img.shields.io/badge/Medium-26-orange)
+![](https://img.shields.io/badge/Medium-27-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -98,6 +99,7 @@
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
 [0394]: https://leetcode.com/problems/decode-string/
+[0424]: https://leetcode.com/problems/longest-repeating-character-replacement/
 [0542]: https://leetcode.com/problems/01-matrix/
 [0565]: https://leetcode.com/problems/array-nesting/
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
