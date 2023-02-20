@@ -43,3 +43,4 @@
 42,121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2023-02-10,Best Time to Buy and Sell Stock,Easy,Array;Dynamic Programming
 43,3,https://leetcode.com/problems/longest-substring-without-repeating-characters/,2023-02-15,Longest Substring Without Repeating Characters,Medium,Hash Table;String;Sliding Window
 44,424,https://leetcode.com/problems/longest-repeating-character-replacement/,2023-02-16,Longest Repeating Character Replacement,Medium,Hash Table;String;Sliding Window
+45,20,https://leetcode.com/problems/valid-parentheses/,2023-02-20,Valid Parentheses,Easy,String;Stack

@@ -47,6 +47,7 @@
 | 042 | [121][0121] | [Best Time to Buy and Sell Stock](<./2023-02/2023-02-10/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 043 | [3][0003] | [Longest Substring Without Repeating Characters](<./2023-02/2023-02-15/3.%20Longest%20Substring%20Without%20Repeating%20Characters>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
 | 044 | [424][0424] | [Longest Repeating Character Replacement](<./2023-02/2023-02-16/424.%20Longest%20Repeating%20Character%20Replacement>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
+| 045 | [20][0020] | [Valid Parentheses](<./2023-02/2023-02-20/20.%20Valid%20Parentheses>) | ![Easy][Easy] | String; Stack | 
 
 
 
@@ -54,7 +55,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-15-brightgreen)
+![](https://img.shields.io/badge/Easy-16-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-27-orange)
 
@@ -65,6 +66,7 @@
 [0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [0011]: https://leetcode.com/problems/container-with-most-water/
 [0015]: https://leetcode.com/problems/3sum/
+[0020]: https://leetcode.com/problems/valid-parentheses/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
