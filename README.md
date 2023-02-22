@@ -49,6 +49,7 @@
 | 044 | [424][0424] | [Longest Repeating Character Replacement](<./2023-02/2023-02-16/424.%20Longest%20Repeating%20Character%20Replacement>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
 | 045 | [20][0020] | [Valid Parentheses](<./2023-02/2023-02-20/20.%20Valid%20Parentheses>) | ![Easy][Easy] | String; Stack | 
 | 046 | [153][0153] | [Find Minimum in Rotated Sorted Array](<./2023-02/2023-02-21/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
+| 047 | [33][0033] | [Search in Rotated Sorted Array](<./2023-02/2023-02-22/33.%20Search%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
 
 
 
@@ -58,7 +59,7 @@
 
 ![](https://img.shields.io/badge/Easy-16-brightgreen)
 
-![](https://img.shields.io/badge/Medium-28-orange)
+![](https://img.shields.io/badge/Medium-29-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -69,6 +70,7 @@
 [0015]: https://leetcode.com/problems/3sum/
 [0020]: https://leetcode.com/problems/valid-parentheses/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
+[0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/

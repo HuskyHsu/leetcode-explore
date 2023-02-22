@@ -45,3 +45,4 @@
 44,424,https://leetcode.com/problems/longest-repeating-character-replacement/,2023-02-16,Longest Repeating Character Replacement,Medium,Hash Table;String;Sliding Window
 45,20,https://leetcode.com/problems/valid-parentheses/,2023-02-20,Valid Parentheses,Easy,String;Stack
 46,153,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,2023-02-21,Find Minimum in Rotated Sorted Array,Medium,Array;Binary Search
+47,33,https://leetcode.com/problems/search-in-rotated-sorted-array/,2023-02-22,Search in Rotated Sorted Array,Medium,Array;Binary Search
