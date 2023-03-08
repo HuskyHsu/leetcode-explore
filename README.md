@@ -50,6 +50,7 @@
 | 045 | [20][0020] | [Valid Parentheses](<./2023-02/2023-02-20/20.%20Valid%20Parentheses>) | ![Easy][Easy] | String; Stack | 
 | 046 | [153][0153] | [Find Minimum in Rotated Sorted Array](<./2023-02/2023-02-21/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
 | 047 | [33][0033] | [Search in Rotated Sorted Array](<./2023-02/2023-02-22/33.%20Search%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
+| 048 | [19][0019] | [Remove Nth Node From End of List](<./2023-03/2023-03-08/19.%20Remove%20Nth%20Node%20From%20End%20of%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
 
 
 
@@ -59,7 +60,7 @@
 
 ![](https://img.shields.io/badge/Easy-16-brightgreen)
 
-![](https://img.shields.io/badge/Medium-29-orange)
+![](https://img.shields.io/badge/Medium-30-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -68,6 +69,7 @@
 [0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [0011]: https://leetcode.com/problems/container-with-most-water/
 [0015]: https://leetcode.com/problems/3sum/
+[0019]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [0020]: https://leetcode.com/problems/valid-parentheses/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
