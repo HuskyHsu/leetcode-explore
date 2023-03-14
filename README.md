@@ -53,6 +53,7 @@
 | 048 | [19][0019] | [Remove Nth Node From End of List](<./2023-03/2023-03-08/19.%20Remove%20Nth%20Node%20From%20End%20of%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
 | 049 | [226][0226] | [Invert Binary Tree](<./2023-03/2023-03-14/226.%20Invert%20Binary%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 050 | [100][0100] | [Same Tree](<./2023-03/2023-03-14/100.%20Same%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 051 | [572][0572] | [Subtree of Another Tree](<./2023-03/2023-03-14/572.%20Subtree%20of%20Another%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; String Matching; Binary Tree; Hash Function | 
 
 
 
@@ -60,7 +61,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-18-brightgreen)
+![](https://img.shields.io/badge/Easy-19-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -114,6 +115,7 @@
 [0424]: https://leetcode.com/problems/longest-repeating-character-replacement/
 [0542]: https://leetcode.com/problems/01-matrix/
 [0565]: https://leetcode.com/problems/array-nesting/
+[0572]: https://leetcode.com/problems/subtree-of-another-tree/
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [0908]: https://leetcode.com/problems/middle-of-the-linked-list/
 [1013]: https://leetcode.com/problems/fibonacci-number/

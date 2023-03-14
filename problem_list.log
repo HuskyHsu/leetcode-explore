@@ -49,3 +49,4 @@
 48,19,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,2023-03-08,Remove Nth Node From End of List,Medium,Linked List;Two Pointers
 49,226,https://leetcode.com/problems/invert-binary-tree/,2023-03-14,Invert Binary Tree,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Tree
 50,100,https://leetcode.com/problems/same-tree/,2023-03-14,Same Tree,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Tree
+51,572,https://leetcode.com/problems/subtree-of-another-tree/,2023-03-14,Subtree of Another Tree,Easy,Tree;Depth-First Search;String Matching;Binary Tree;Hash Function
