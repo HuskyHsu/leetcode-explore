@@ -52,6 +52,7 @@
 | 047 | [33][0033] | [Search in Rotated Sorted Array](<./2023-02/2023-02-22/33.%20Search%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
 | 048 | [19][0019] | [Remove Nth Node From End of List](<./2023-03/2023-03-08/19.%20Remove%20Nth%20Node%20From%20End%20of%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
 | 049 | [226][0226] | [Invert Binary Tree](<./2023-03/2023-03-14/226.%20Invert%20Binary%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 050 | [100][0100] | [Same Tree](<./2023-03/2023-03-14/100.%20Same%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 
 
 
@@ -59,7 +60,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-17-brightgreen)
+![](https://img.shields.io/badge/Easy-18-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -84,6 +85,7 @@
 [0095]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 [0097]: https://leetcode.com/problems/interleaving-string/
 [0098]: https://leetcode.com/problems/validate-binary-search-tree/
+[0100]: https://leetcode.com/problems/same-tree/
 [0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [0103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
