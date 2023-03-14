@@ -51,6 +51,7 @@
 | 046 | [153][0153] | [Find Minimum in Rotated Sorted Array](<./2023-02/2023-02-21/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
 | 047 | [33][0033] | [Search in Rotated Sorted Array](<./2023-02/2023-02-22/33.%20Search%20in%20Rotated%20Sorted%20Array>) | ![Medium][Medium] | Array; Binary Search | 
 | 048 | [19][0019] | [Remove Nth Node From End of List](<./2023-03/2023-03-08/19.%20Remove%20Nth%20Node%20From%20End%20of%20List>) | ![Medium][Medium] | Linked List; Two Pointers | 
+| 049 | [226][0226] | [Invert Binary Tree](<./2023-03/2023-03-14/226.%20Invert%20Binary%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 
 
 
@@ -58,7 +59,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-16-brightgreen)
+![](https://img.shields.io/badge/Easy-17-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -102,6 +103,7 @@
 [0200]: https://leetcode.com/problems/number-of-islands/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0221]: https://leetcode.com/problems/maximal-square/
+[0226]: https://leetcode.com/problems/invert-binary-tree/
 [0232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
