@@ -50,3 +50,4 @@
 49,226,https://leetcode.com/problems/invert-binary-tree/,2023-03-14,Invert Binary Tree,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Tree
 50,100,https://leetcode.com/problems/same-tree/,2023-03-14,Same Tree,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Tree
 51,572,https://leetcode.com/problems/subtree-of-another-tree/,2023-03-14,Subtree of Another Tree,Easy,Tree;Depth-First Search;String Matching;Binary Tree;Hash Function
+52,235,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,2023-03-15,Lowest Common Ancestor of a Binary Search Tree,Medium,Tree;Depth-First Search;Binary Search Tree;Binary Tree
