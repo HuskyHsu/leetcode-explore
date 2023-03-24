@@ -56,6 +56,7 @@
 | 051 | [572][0572] | [Subtree of Another Tree](<./2023-03/2023-03-14/572.%20Subtree%20of%20Another%20Tree>) | ![Easy][Easy] | Tree; Depth-First Search; String Matching; Binary Tree; Hash Function | 
 | 052 | [235][0235] | [Lowest Common Ancestor of a Binary Search Tree](<./2023-03/2023-03-15/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 053 | [230][0230] | [Kth Smallest Element in a BST](<./2023-03/2023-03-22/230.%20Kth%20Smallest%20Element%20in%20a%20BST>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
+| 054 | [105][0105] | [Construct Binary Tree from Preorder and Inorder Traversal](<./2023-03/2023-03-24/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal>) | ![Medium][Medium] | Array; Hash Table; Divide and Conquer; Tree; Binary Tree | 
 
 
 
@@ -65,7 +66,7 @@
 
 ![](https://img.shields.io/badge/Easy-19-brightgreen)
 
-![](https://img.shields.io/badge/Medium-32-orange)
+![](https://img.shields.io/badge/Medium-33-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -92,6 +93,7 @@
 [0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [0103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[0105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
