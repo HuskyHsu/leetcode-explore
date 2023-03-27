@@ -58,6 +58,7 @@
 | 053 | [230][0230] | [Kth Smallest Element in a BST](<./2023-03/2023-03-22/230.%20Kth%20Smallest%20Element%20in%20a%20BST>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 054 | [105][0105] | [Construct Binary Tree from Preorder and Inorder Traversal](<./2023-03/2023-03-24/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal>) | ![Medium][Medium] | Array; Hash Table; Divide and Conquer; Tree; Binary Tree | 
 | 055 | [208][0208] | [Implement Trie (Prefix Tree)](<./2023-03/2023-03-27/208.%20Implement%20Trie%20(Prefix%20Tree)>) | ![Medium][Medium] | Hash Table; String; Design; Trie | 
+| 056 | [211][0211] | [Design Add and Search Words Data Structure](<./2023-03/2023-03-27/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure>) | ![Medium][Medium] | String; Depth-First Search; Design; Trie | 
 
 
 
@@ -67,7 +68,7 @@
 
 ![](https://img.shields.io/badge/Easy-19-brightgreen)
 
-![](https://img.shields.io/badge/Medium-34-orange)
+![](https://img.shields.io/badge/Medium-35-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -111,6 +112,7 @@
 [0200]: https://leetcode.com/problems/number-of-islands/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0208]: https://leetcode.com/problems/implement-trie-prefix-tree/
+[0211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 [0221]: https://leetcode.com/problems/maximal-square/
 [0226]: https://leetcode.com/problems/invert-binary-tree/
 [0230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
