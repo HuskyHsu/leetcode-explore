@@ -59,6 +59,7 @@
 | 054 | [105][0105] | [Construct Binary Tree from Preorder and Inorder Traversal](<./2023-03/2023-03-24/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal>) | ![Medium][Medium] | Array; Hash Table; Divide and Conquer; Tree; Binary Tree | 
 | 055 | [208][0208] | [Implement Trie (Prefix Tree)](<./2023-03/2023-03-27/208.%20Implement%20Trie%20(Prefix%20Tree)>) | ![Medium][Medium] | Hash Table; String; Design; Trie | 
 | 056 | [211][0211] | [Design Add and Search Words Data Structure](<./2023-03/2023-03-27/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure>) | ![Medium][Medium] | String; Depth-First Search; Design; Trie | 
+| 057 | [70][0070] | [Climbing Stairs](<./2023-03/2023-03-28/70.%20Climbing%20Stairs>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
 
 
 
@@ -66,7 +67,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-19-brightgreen)
+![](https://img.shields.io/badge/Easy-20-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-35-orange)
 
@@ -81,6 +82,7 @@
 [0020]: https://leetcode.com/problems/valid-parentheses/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[0070]: https://leetcode.com/problems/climbing-stairs/
 [0078]: https://leetcode.com/problems/subsets/
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
