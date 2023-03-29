@@ -61,6 +61,7 @@
 | 056 | [211][0211] | [Design Add and Search Words Data Structure](<./2023-03/2023-03-27/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure>) | ![Medium][Medium] | String; Depth-First Search; Design; Trie | 
 | 057 | [70][0070] | [Climbing Stairs](<./2023-03/2023-03-28/70.%20Climbing%20Stairs>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
 | 058 | [198][0198] | [House Robber](<./2023-03/2023-03-29/198.%20House%20Robber>) | ![Medium][Medium] | Array; Dynamic Programming | 
+| 059 | [213][0213] | [House Robber II](<./2023-03/2023-03-29/213.%20House%20Robber%20II>) | ![Medium][Medium] | Array; Dynamic Programming | 
 
 
 
@@ -70,7 +71,7 @@
 
 ![](https://img.shields.io/badge/Easy-20-brightgreen)
 
-![](https://img.shields.io/badge/Medium-36-orange)
+![](https://img.shields.io/badge/Medium-37-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -117,6 +118,7 @@
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0208]: https://leetcode.com/problems/implement-trie-prefix-tree/
 [0211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
+[0213]: https://leetcode.com/problems/house-robber-ii/
 [0221]: https://leetcode.com/problems/maximal-square/
 [0226]: https://leetcode.com/problems/invert-binary-tree/
 [0230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
