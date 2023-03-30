@@ -62,6 +62,7 @@
 | 057 | [70][0070] | [Climbing Stairs](<./2023-03/2023-03-28/70.%20Climbing%20Stairs>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
 | 058 | [198][0198] | [House Robber](<./2023-03/2023-03-29/198.%20House%20Robber>) | ![Medium][Medium] | Array; Dynamic Programming | 
 | 059 | [213][0213] | [House Robber II](<./2023-03/2023-03-29/213.%20House%20Robber%20II>) | ![Medium][Medium] | Array; Dynamic Programming | 
+| 060 | [5][0005] | [Longest Palindromic Substring](<./2023-03/2023-03-30/5.%20Longest%20Palindromic%20Substring>) | ![Medium][Medium] | String; Dynamic Programming | 
 
 
 
@@ -71,13 +72,14 @@
 
 ![](https://img.shields.io/badge/Easy-20-brightgreen)
 
-![](https://img.shields.io/badge/Medium-37-orange)
+![](https://img.shields.io/badge/Medium-38-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
 ---
 
 [0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[0005]: https://leetcode.com/problems/longest-palindromic-substring/
 [0011]: https://leetcode.com/problems/container-with-most-water/
 [0015]: https://leetcode.com/problems/3sum/
 [0019]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
