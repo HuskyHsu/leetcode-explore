@@ -63,6 +63,7 @@
 | 058 | [198][0198] | [House Robber](<./2023-03/2023-03-29/198.%20House%20Robber>) | ![Medium][Medium] | Array; Dynamic Programming | 
 | 059 | [213][0213] | [House Robber II](<./2023-03/2023-03-29/213.%20House%20Robber%20II>) | ![Medium][Medium] | Array; Dynamic Programming | 
 | 060 | [5][0005] | [Longest Palindromic Substring](<./2023-03/2023-03-30/5.%20Longest%20Palindromic%20Substring>) | ![Medium][Medium] | String; Dynamic Programming | 
+| 061 | [647][0647] | [Palindromic Substrings](<./2023-03/2023-03-31/647.%20Palindromic%20Substrings>) | ![Medium][Medium] | String; Dynamic Programming | 
 
 
 
@@ -72,7 +73,7 @@
 
 ![](https://img.shields.io/badge/Easy-20-brightgreen)
 
-![](https://img.shields.io/badge/Medium-38-orange)
+![](https://img.shields.io/badge/Medium-39-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -134,6 +135,7 @@
 [0542]: https://leetcode.com/problems/01-matrix/
 [0565]: https://leetcode.com/problems/array-nesting/
 [0572]: https://leetcode.com/problems/subtree-of-another-tree/
+[0647]: https://leetcode.com/problems/palindromic-substrings/
 [0784]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [0908]: https://leetcode.com/problems/middle-of-the-linked-list/
 [1013]: https://leetcode.com/problems/fibonacci-number/

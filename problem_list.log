@@ -59,3 +59,4 @@
 58,198,https://leetcode.com/problems/house-robber/,2023-03-29,House Robber,Medium,Array;Dynamic Programming
 59,213,https://leetcode.com/problems/house-robber-ii/,2023-03-29,House Robber II,Medium,Array;Dynamic Programming
 60,5,https://leetcode.com/problems/longest-palindromic-substring/,2023-03-30,Longest Palindromic Substring,Medium,String;Dynamic Programming
+61,647,https://leetcode.com/problems/palindromic-substrings/,2023-03-31,Palindromic Substrings,Medium,String;Dynamic Programming
