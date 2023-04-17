@@ -66,6 +66,7 @@
 | 061 | [647][0647] | [Palindromic Substrings](<./2023-03/2023-03-31/647.%20Palindromic%20Substrings>) | ![Medium][Medium] | String; Dynamic Programming | 
 | 062 | [53][0053] | [Maximum Subarray](<./2023-04/2023-04-06/53.%20Maximum%20Subarray>) | ![Medium][Medium] | Array; Divide and Conquer; Dynamic Programming | 
 | 063 | [57][0057] | [Insert Interval](<./2023-04/2023-04-06/57.%20Insert%20Interval>) | ![Medium][Medium] | Array | 
+| 064 | [48][0048] | [Rotate Image](<./2023-04/2023-04-17/48.%20Rotate%20Image>) | ![Medium][Medium] | Array; Math; Matrix | 
 
 
 
@@ -75,7 +76,7 @@
 
 ![](https://img.shields.io/badge/Easy-20-brightgreen)
 
-![](https://img.shields.io/badge/Medium-41-orange)
+![](https://img.shields.io/badge/Medium-42-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -89,6 +90,7 @@
 [0020]: https://leetcode.com/problems/valid-parentheses/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[0048]: https://leetcode.com/problems/rotate-image/
 [0053]: https://leetcode.com/problems/maximum-subarray/
 [0057]: https://leetcode.com/problems/insert-interval/
 [0070]: https://leetcode.com/problems/climbing-stairs/
