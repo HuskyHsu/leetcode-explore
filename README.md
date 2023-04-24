@@ -67,6 +67,7 @@
 | 062 | [53][0053] | [Maximum Subarray](<./2023-04/2023-04-06/53.%20Maximum%20Subarray>) | ![Medium][Medium] | Array; Divide and Conquer; Dynamic Programming | 
 | 063 | [57][0057] | [Insert Interval](<./2023-04/2023-04-06/57.%20Insert%20Interval>) | ![Medium][Medium] | Array | 
 | 064 | [48][0048] | [Rotate Image](<./2023-04/2023-04-17/48.%20Rotate%20Image>) | ![Medium][Medium] | Array; Math; Matrix | 
+| 065 | [91][0091] | [Decode Ways](<./2023-04/2023-04-24/91.%20Decode%20Ways>) | ![Medium][Medium] | String; Dynamic Programming | 
 
 
 
@@ -76,7 +77,7 @@
 
 ![](https://img.shields.io/badge/Easy-20-brightgreen)
 
-![](https://img.shields.io/badge/Medium-42-orange)
+![](https://img.shields.io/badge/Medium-43-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -99,6 +100,7 @@
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [0084]: https://leetcode.com/problems/largest-rectangle-in-histogram/
 [0086]: https://leetcode.com/problems/partition-list/
+[0091]: https://leetcode.com/problems/decode-ways/
 [0092]: https://leetcode.com/problems/reverse-linked-list-ii/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0095]: https://leetcode.com/problems/unique-binary-search-trees-ii/
