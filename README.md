@@ -68,6 +68,7 @@
 | 063 | [57][0057] | [Insert Interval](<./2023-04/2023-04-06/57.%20Insert%20Interval>) | ![Medium][Medium] | Array | 
 | 064 | [48][0048] | [Rotate Image](<./2023-04/2023-04-17/48.%20Rotate%20Image>) | ![Medium][Medium] | Array; Math; Matrix | 
 | 065 | [91][0091] | [Decode Ways](<./2023-04/2023-04-24/91.%20Decode%20Ways>) | ![Medium][Medium] | String; Dynamic Programming | 
+| 066 | [55][0055] | [Jump Game](<./2023-04/2023-04-26/55.%20Jump%20Game>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
 
 
 
@@ -77,7 +78,7 @@
 
 ![](https://img.shields.io/badge/Easy-20-brightgreen)
 
-![](https://img.shields.io/badge/Medium-43-orange)
+![](https://img.shields.io/badge/Medium-44-orange)
 
 ![](https://img.shields.io/badge/Hard-2-red)
 
@@ -93,6 +94,7 @@
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [0048]: https://leetcode.com/problems/rotate-image/
 [0053]: https://leetcode.com/problems/maximum-subarray/
+[0055]: https://leetcode.com/problems/jump-game/
 [0057]: https://leetcode.com/problems/insert-interval/
 [0070]: https://leetcode.com/problems/climbing-stairs/
 [0078]: https://leetcode.com/problems/subsets/
