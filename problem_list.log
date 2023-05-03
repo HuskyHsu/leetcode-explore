@@ -65,3 +65,4 @@
 64,48,https://leetcode.com/problems/rotate-image/,2023-04-17,Rotate Image,Medium,Array;Math;Matrix
 65,91,https://leetcode.com/problems/decode-ways/,2023-04-24,Decode Ways,Medium,String;Dynamic Programming
 66,55,https://leetcode.com/problems/jump-game/,2023-04-26,Jump Game,Medium,Array;Dynamic Programming;Greedy
+67,56,https://leetcode.com/problems/merge-intervals/,2023-05-03,Merge Intervals,Medium,Array;Sorting
