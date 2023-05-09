@@ -71,6 +71,7 @@
 | 066 | [55][0055] | [Jump Game](<./2023-04/2023-04-26/55.%20Jump%20Game>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
 | 067 | [56][0056] | [Merge Intervals](<./2023-05/2023-05-03/56.%20Merge%20Intervals>) | ![Medium][Medium] | Array; Sorting | 
 | 068 | [191][0191] | [Number of 1 Bits](<./2023-05/2023-05-09/191.%20Number%20of%201%20Bits>) | ![Easy][Easy] | Divide and Conquer; Bit Manipulation | 
+| 069 | [338][0338] | [Counting Bits](<./2023-05/2023-05-09/338.%20Counting%20Bits>) | ![Easy][Easy] | Dynamic Programming; Bit Manipulation | 
 
 
 
@@ -78,7 +79,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-21-brightgreen)
+![](https://img.shields.io/badge/Easy-22-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-45-orange)
 
@@ -144,6 +145,7 @@
 [0235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [0322]: https://leetcode.com/problems/coin-change/
+[0338]: https://leetcode.com/problems/counting-bits/
 [0394]: https://leetcode.com/problems/decode-string/
 [0424]: https://leetcode.com/problems/longest-repeating-character-replacement/
 [0542]: https://leetcode.com/problems/01-matrix/

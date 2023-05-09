@@ -67,3 +67,4 @@
 66,55,https://leetcode.com/problems/jump-game/,2023-04-26,Jump Game,Medium,Array;Dynamic Programming;Greedy
 67,56,https://leetcode.com/problems/merge-intervals/,2023-05-03,Merge Intervals,Medium,Array;Sorting
 68,191,https://leetcode.com/problems/number-of-1-bits/,2023-05-09,Number of 1 Bits,Easy,Divide and Conquer;Bit Manipulation
+69,338,https://leetcode.com/problems/counting-bits/,2023-05-09,Counting Bits,Easy,Dynamic Programming;Bit Manipulation
