@@ -70,6 +70,7 @@
 | 065 | [91][0091] | [Decode Ways](<./2023-04/2023-04-24/91.%20Decode%20Ways>) | ![Medium][Medium] | String; Dynamic Programming | 
 | 066 | [55][0055] | [Jump Game](<./2023-04/2023-04-26/55.%20Jump%20Game>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
 | 067 | [56][0056] | [Merge Intervals](<./2023-05/2023-05-03/56.%20Merge%20Intervals>) | ![Medium][Medium] | Array; Sorting | 
+| 068 | [191][0191] | [Number of 1 Bits](<./2023-05/2023-05-09/191.%20Number%20of%201%20Bits>) | ![Easy][Easy] | Divide and Conquer; Bit Manipulation | 
 
 
 
@@ -77,7 +78,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-20-brightgreen)
+![](https://img.shields.io/badge/Easy-21-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-45-orange)
 
@@ -128,6 +129,7 @@
 [0150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [0153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [0155]: https://leetcode.com/problems/min-stack/
+[0191]: https://leetcode.com/problems/number-of-1-bits/
 [0198]: https://leetcode.com/problems/house-robber/
 [0200]: https://leetcode.com/problems/number-of-islands/
 [0206]: https://leetcode.com/problems/reverse-linked-list/
